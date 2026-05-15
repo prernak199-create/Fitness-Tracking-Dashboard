@@ -2,6 +2,10 @@
 A fully interactive Fitness Tracking Dashboard built using HTML, CSS, and JavaScript and Chart.js for Data Visualisation — designed to transform fitness data into meaningful, easy-to-understand insights.
 This project focuses not only on visualizing data, but also on creating a clean user experience that helps users quickly understand trends, habits, and performance.
 =========================================================================================================================================
+## 🔗 Live Demo
+https://prernak199-create.github.io/Fitness-Tracking-Dashboard/
+
+=======================================================================================================================================
 📊 Project Overview --
 The dashboard combines multiple fitness metrics, interactive charts, and tracking components into a single responsive interface.
 Instead of simply displaying numbers, the goal was to build a dashboard that highlights:
